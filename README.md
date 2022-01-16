@@ -4,7 +4,7 @@
 
 ---
 
-### Server Repo: https://github.com/tanishatasnin/nature-love-server
+### Server Repo: https://github.com/TanvirFahimBD/nature-love-server-side
 
 ---
 
